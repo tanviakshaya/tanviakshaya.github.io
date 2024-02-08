@@ -7,7 +7,7 @@ Hello there! I'm **Tanvi Akshaya**, a first year student at IIT Goa, studying Co
 
 # Education
 |Academic year| Standard | School Name|
-|------------------|--------|----------|
+| :----------: | :--------: | :----------: |
 |2011-2012|1st-2nd|Sri Sai Public School|
 |2013-2015|3rd-5th|Narayana Institutions|
 |2016-2021|6th-10th|Little Flower School|
